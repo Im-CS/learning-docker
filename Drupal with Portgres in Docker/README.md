@@ -32,7 +32,7 @@
  27   web-sites:
 ```
 
-<h4>Then run this to start the comntainer</h4>
+<h4>Then run this command to start the container</h4>
 
 ```
 docker-compose up -d
