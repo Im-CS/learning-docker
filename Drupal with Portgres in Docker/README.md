@@ -38,4 +38,4 @@ docker-compose up -d
 </code>
 
 <h3>Watch demo here</h3>
-[![Watch demo here](abc.no)](https://youtu.be/KYgojRVmCf0 "Watch demo here")
+[![Watch demo here](http://i.imgur.com/7YTMFQp.png)](https://youtu.be/KYgojRVmCf0 "Watch demo here")
