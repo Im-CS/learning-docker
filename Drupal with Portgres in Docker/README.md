@@ -37,7 +37,7 @@ Then run this to start the comntainer
 docker-compose up -d
 ```
 
-##Watch demo here
+Watch demo here
 
 [![WATCH DEMO HERE](https://i9.ytimg.com/vi/KYgojRVmCf0/hqdefault.jpg?sqp=CNiRq_oF&rs=AOn4CLBUd0HGF8wb1Q8ty4wt-JijRSFz4A)](https://youtu.be/KYgojRVmCf0)
 
