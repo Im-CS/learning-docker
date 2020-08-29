@@ -33,9 +33,11 @@
 ```
 
 <h4>Then run this to start the comntainer</h4>
+
 ```
 docker-compose up -d
 ```
+
 
 <h4>Watch demo here</h4>
 
