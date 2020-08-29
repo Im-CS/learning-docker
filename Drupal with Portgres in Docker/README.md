@@ -1,6 +1,6 @@
-#Drupal with Portgres in Docker
+Drupal with Portgres in Docker
 
-##Create the docker-compose.yml file like this
+Create the docker-compose.yml file like this
 
 ```
   1 version: '2'
@@ -32,12 +32,12 @@
  27   web-sites:
 ```
 
-##Then run this to start the comntainer
+Then run this to start the comntainer
 ```
 docker-compose up -d
 ```
 
 ##Watch demo here
 
-![WATCH DEMO HERE](https://i9.ytimg.com/vi/KYgojRVmCf0/hqdefault.jpg?sqp=CNiRq_oF&rs=AOn4CLBUd0HGF8wb1Q8ty4wt-JijRSFz4A)
+[![WATCH DEMO HERE](https://i9.ytimg.com/vi/KYgojRVmCf0/hqdefault.jpg?sqp=CNiRq_oF&rs=AOn4CLBUd0HGF8wb1Q8ty4wt-JijRSFz4A)](https://youtu.be/KYgojRVmCf0)
 
