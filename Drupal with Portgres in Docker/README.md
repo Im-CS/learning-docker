@@ -39,9 +39,5 @@ docker-compose up -d
 
 ##Watch demo here
 
-<iframe width="560" height="315"
-src="https://youtu.be/KYgojRVmCf0" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+![WATCH DEMO HERE](https://i9.ytimg.com/vi/KYgojRVmCf0/hqdefault.jpg?sqp=CNiRq_oF&rs=AOn4CLBUd0HGF8wb1Q8ty4wt-JijRSFz4A)
 
