@@ -1,4 +1,4 @@
-# Drupal with Portgres in Docker
+# Custom Docker Image of Drupal with Portgres
 
 ## Create the dockerfile like this
 
